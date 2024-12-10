@@ -9,3 +9,11 @@
 - Or
 - Mousavi, Seyed Muhammad Hossein,1397,Using Genetic Programming for Making a New Evolutionary Artwork, Based on Human-Computer Interactions for Autism Rehabilitation,The Third International Conference on Intelligent Decision Science,Tehran,https://civilica.com/doc/855106
 
+![image](https://github.com/user-attachments/assets/3773a53d-c712-4322-94d0-8b86cd1ce0f9)
+
+![image](https://github.com/user-attachments/assets/af41e699-0855-482b-88df-d92240aabb93)
+
+![image](https://github.com/user-attachments/assets/2ffc7438-c78c-4cbe-9ff5-4c52acfff2ab)
+
+![image](https://github.com/user-attachments/assets/0e543303-870e-4b50-aebe-43ab0554580e)
+![image](https://github.com/user-attachments/assets/7cf1eadc-1fbd-4f4f-b06f-01b697216c09)
