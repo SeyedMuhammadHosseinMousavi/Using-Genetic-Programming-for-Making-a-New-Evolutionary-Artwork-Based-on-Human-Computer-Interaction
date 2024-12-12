@@ -8,6 +8,8 @@
 - Mousavi, M. S. H., and Narges Aghsaghloo. "Using Genetic Programming for Making a New Evolutionary Artwork, Based on Human-Computer Interactions for Autism Rehabilitation." The third International Conference on Intelligent Decision Science (IDS 2018) At: Tehran-Iran. 2018.
 - Or
 - Mousavi, Seyed Muhammad Hossein,1397,Using Genetic Programming for Making a New Evolutionary Artwork, Based on Human-Computer Interactions for Autism Rehabilitation,The Third International Conference on Intelligent Decision Science,Tehran,https://civilica.com/doc/855106
+- Or
+- Mousavi SM, Aghsaghloo NA. Using Visual Evolutionary Art Based On Color Patterns And Depth Assist For Autism Rehabilitation. Journal of Software Engineering Intelligent Systems. 2018;3(3).
 
 ![image](https://github.com/user-attachments/assets/3773a53d-c712-4322-94d0-8b86cd1ce0f9)
 
